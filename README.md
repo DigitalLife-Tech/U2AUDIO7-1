@@ -1,2 +1,3 @@
 # U2AUDIO7-1
- DigitalLife U2AUDIO7-1's Driver v2.0
+v2.0
+2020/10/10
